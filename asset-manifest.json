@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/math-trainer/static/css/main.2bcf620a.chunk.css",
+    "main.js": "/math-trainer/static/js/main.da46764c.chunk.js",
+    "main.js.map": "/math-trainer/static/js/main.da46764c.chunk.js.map",
+    "runtime~main.js": "/math-trainer/static/js/runtime~main.79cdea0f.js",
+    "runtime~main.js.map": "/math-trainer/static/js/runtime~main.79cdea0f.js.map",
+    "static/js/2.fa0694e6.chunk.js": "/math-trainer/static/js/2.fa0694e6.chunk.js",
+    "static/js/2.fa0694e6.chunk.js.map": "/math-trainer/static/js/2.fa0694e6.chunk.js.map",
+    "index.html": "/math-trainer/index.html",
+    "precache-manifest.cbfe78161ff9bd1139c2012fe6349358.js": "/math-trainer/precache-manifest.cbfe78161ff9bd1139c2012fe6349358.js",
+    "service-worker.js": "/math-trainer/service-worker.js",
+    "static/css/main.2bcf620a.chunk.css.map": "/math-trainer/static/css/main.2bcf620a.chunk.css.map"
+  }
+}
